@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">HomeWork</string>
+    <string name="bottom_nav_news_item">Новости</string>
+    <string name="bottom_nav_favorite_item">Избранное</string>
+    <string name="error_smile">:-(</string>
+    <string name="error_description">Сервер недоступен\nпопробуйте позже</string>
+    <string name="retry">Повторить</string>
+    <string name="bottom_nav_profile_item">Профиль</string>
+    <string name="first_name">FirstName</string>
+    <string name="last_name">LastName</string>
+    <string name="last_seen">"Был в сети "</string>
+    <string name="about">about text</string>
+    <string name="birthday">birthday</string>
+    <string name="domain">domain</string>
+    <string name="about_title_text">О себе</string>
+    <string name="city_title_text">Город</string>
+    <string name="country_title_text">Страна</string>
+    <string name="career_title_text">Работа</string>
+    <string name="education_title_text">Место учёбы</string>
+    <string name="followers_count_title_text">Подписчиков</string>
+    <string name="commentary">Комментарий</string>
+    <string name="write_post">Написать пост</string>
+    <string name="network_is_not_available">Сеть недоступна</string>
+    <string name="auth_error_description">Для работы приложения необходимо авторизироваться</string>
+    <string name="loading_error">Не удалось загрузить</string>
+    <string name="new_post">Новая запись</string>
+    <string name="create_post_hint">Введите пост</string>
+    <integer name="com_vk_sdk_AppId">7647288</integer>
+</resources>
